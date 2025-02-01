@@ -10,7 +10,7 @@ const About = () => {
     <div>
       
       <Header/>
-      <DownHeader/>
+      
       
       {/* Hero Section */}
       <div className="w-1440px h-277px flex flex-col md:flex-row justify-between items-center px-4 md:px-16 py-8">

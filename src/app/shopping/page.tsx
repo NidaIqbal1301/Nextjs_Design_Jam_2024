@@ -7,7 +7,6 @@ const Shopping=()=>{
     return(
         <>
         <Header/>
-        <DownHeader/>
         <ShoppingCart/>
         <Footer/>
         
